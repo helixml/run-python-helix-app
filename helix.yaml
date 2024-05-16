@@ -2,6 +2,6 @@ name: My Test Helix App
 description: This is a test Helix app
 assistants:
 - name: Python Assistant
-  description: This is an example assistant with running python scripts
+  description: This is an example assistant with running python scripts.
   gptscripts:
     - file: scripts/*.gpt
